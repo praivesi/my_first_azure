@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vZOamUlZkpA=",
+  "dgSpecHash": "X5jFRJAqjqk=",
   "success": true,
   "projectFilePath": "/Users/expdemian/study.ossca/my_first_azure/backend/MyFirstAzure.ApiApp/MyFirstAzure.ApiApp.csproj",
   "expectedPackageFiles": [
@@ -70,8 +70,7 @@
     "/Users/expdemian/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
     "/Users/expdemian/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
     "/Users/expdemian/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512",
-    "/Users/expdemian/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "/Users/expdemian/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.7/microsoft.netcore.app.host.linux-x64.8.0.7.nupkg.sha512"
+    "/Users/expdemian/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
