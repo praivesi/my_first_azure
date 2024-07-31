@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8Joti33+oTFraGpx8E2+iXhdnkXNhvUxQUwwfD9jwfs=",
+  "Source": "MyFirstAzure.ApiApp",
+  "BasePath": "_content/MyFirstAzure.ApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

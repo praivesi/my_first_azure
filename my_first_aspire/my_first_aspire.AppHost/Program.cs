@@ -10,6 +10,7 @@ var apiapp = builder.AddProject<Projects.MyFirstAzure_ApiApp>("apiapp")
 .WithEnvironment("OpenAI__DeploymentName", config["OpenAI:DeploymentName"]);
 
 builder.AddProject<Projects.MyFirstAzure_WebApp>("webapp")
+.WithExternalHttpEndpoints()
 .WithReference(cache)
 .WithReference(apiapp);
 

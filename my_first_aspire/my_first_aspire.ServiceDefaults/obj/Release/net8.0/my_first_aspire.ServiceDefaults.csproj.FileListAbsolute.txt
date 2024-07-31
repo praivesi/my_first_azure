@@ -1,0 +1,13 @@
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/bin/Release/net8.0/my_first_aspire.ServiceDefaults.deps.json
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/bin/Release/net8.0/my_first_aspire.ServiceDefaults.dll
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/bin/Release/net8.0/my_first_aspire.ServiceDefaults.pdb
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/my_first_aspire.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/my_first_aspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/my_first_aspire.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/my_first_aspire.ServiceDefaults.AssemblyInfo.cs
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/my_first_aspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/my_first_aspire.ServiceDefaults.sourcelink.json
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/my_first_aspire.ServiceDefaults.dll
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/refint/my_first_aspire.ServiceDefaults.dll
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/my_first_aspire.ServiceDefaults.pdb
+/Users/expdemian/study.ossca/my_first_azure/my_first_aspire/my_first_aspire.ServiceDefaults/obj/Release/net8.0/ref/my_first_aspire.ServiceDefaults.dll
