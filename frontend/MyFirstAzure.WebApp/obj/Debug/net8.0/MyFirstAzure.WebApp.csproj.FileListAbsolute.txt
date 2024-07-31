@@ -27,3 +27,4 @@
 /Users/expdemian/study.ossca/my_first_azure/frontend/MyFirstAzure.WebApp/obj/Debug/net8.0/MyFirstAzure.WebApp.pdb
 /Users/expdemian/study.ossca/my_first_azure/frontend/MyFirstAzure.WebApp/obj/Debug/net8.0/MyFirstAzure.WebApp.genruntimeconfig.cache
 /Users/expdemian/study.ossca/my_first_azure/frontend/MyFirstAzure.WebApp/obj/Debug/net8.0/ref/MyFirstAzure.WebApp.dll
+/Users/expdemian/study.ossca/my_first_azure/frontend/MyFirstAzure.WebApp/obj/Debug/net8.0/MyFirstAzure.WebApp.sourcelink.json

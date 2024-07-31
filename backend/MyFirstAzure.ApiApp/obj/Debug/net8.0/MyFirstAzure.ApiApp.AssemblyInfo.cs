@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstAzure.WebApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstAzure.ApiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29098a7ab4df164212157bac5a453a03acf338e0")]
-[assembly: System.Reflection.AssemblyProductAttribute("MyFirstAzure.WebApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MyFirstAzure.WebApp")]
+[assembly: System.Reflection.AssemblyProductAttribute("MyFirstAzure.ApiApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MyFirstAzure.ApiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
