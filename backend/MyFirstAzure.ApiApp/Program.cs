@@ -8,6 +8,8 @@ using OpenAI.Chat;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.AddServiceDefaults();
+
 builder.Services.AddHttpClient<IYouTubeVideo, YouTubeVideo>();
 builder.Services.AddScoped<AzureOpenAIClient>(sp =>
 {
@@ -27,6 +29,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<YouTubeSummariserService>();
 
 var app = builder.Build();
+
+app.MapDefaultEndpoints();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -82,6 +86,8 @@ class YouTubeSummariserService(IYouTubeVideo youtube, AzureOpenAIClient openai, 
 
     public async Task<string> SummariseAsync(SummaryRequest req)
     {
+        // Thread.Sleep(30 * 1000);
+
         Subtitle subtitle = await this._youtube.ExtractSubtitleAsync(req.YouTubeLinkUrl, req.VideoLanguageCode).ConfigureAwait(false);
         string caption = subtitle.Content.Select(p => p.Text).Aggregate((a, b) => $"{a}\n{b}");
 

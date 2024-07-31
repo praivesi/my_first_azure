@@ -1,9 +1,11 @@
 ﻿@page "/weather"
+@using Microsoft.AspNetCore.OutputCaching
 @using MyFirstAzure.WebApp.Clients
 
-@inject IApiAppClient ApiApp
+@attribute [StreamRendering(true)]
+@attribute [OutputCache(Duration = 5)]
 
-@attribute [StreamRendering]
+@inject IApiAppClient ApiApp
 
 <PageTitle>Weather</PageTitle>
 
