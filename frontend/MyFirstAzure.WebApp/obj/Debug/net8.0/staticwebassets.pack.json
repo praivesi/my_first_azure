@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/expdemian/study.ossca/my_first_azure/frontend/MyFirstAzure.WebApp/obj/Debug/net8.0/scopedcss/projectbundle/MyFirstAzure.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/MyFirstAzure.WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/expdemian/study.ossca/my_first_azure/frontend/MyFirstAzure.WebApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/expdemian/study.ossca/my_first_azure/frontend/MyFirstAzure.WebApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/expdemian/study.ossca/my_first_azure/frontend/MyFirstAzure.WebApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/expdemian/study.ossca/my_first_azure/frontend/MyFirstAzure.WebApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyFirstAzure.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyFirstAzure.WebApp.props",
+      "PackagePath": "build\\MyFirstAzure.WebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyFirstAzure.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\MyFirstAzure.WebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyFirstAzure.WebApp.props",
+      "PackagePath": "buildTransitive\\MyFirstAzure.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
